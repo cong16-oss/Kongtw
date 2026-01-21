@@ -1,6 +1,6 @@
 ## I'm Taewoong Kong
 
-I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University**
+I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan University**
 
 **Research Interests:**
 - Point Cloud Segmentation
