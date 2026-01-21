@@ -6,13 +6,13 @@ I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University*
 - Point Cloud Segmentation
 - Computer Vision
 - Robotics
-  
+
 ---
 
 ## Education
 
 - **M.S. in Smart Factory Convergence**, Sungkyunkwan University *(2026 - Present)*
-  
+
 - **B.S. in Robot Automation Engineering**, Dongyang Mirae University *(2017- 2023)*
   
 ---
@@ -20,10 +20,6 @@ I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University*
 ### Paper
 - Il-Kyu Hwang, Tae-Woong Kong and Jin-Hyuk Park. "Graphical Arduino IDE System with Wiring Layout and Flowchart Functions for Physical Computing Education".
   Wiley Computer Applications in Engineering Education. doi: https://doi.org/10.1002/cae.22783
-
-### Conference
-- 공태웅, 김현수, 황윤성, 강승현, 권만재, 이병국, "Boost PFC 컨버터의 스위칭 손실 도출 방안 비교 및 분석", 
-  전력전자학회 2024년도 추계학술대회 , Seoul, Korea (Nov. 2024)
 
 ### Program Registrations
 - 소량 조색 데이터를 활용한 이중 증강 기반 파운데이션 양방향 색상 예측 및 시뮬레이션 프로그램"
@@ -41,9 +37,9 @@ I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University*
 
 | Date       | Title & Topic                                                                                                           | Link  |
 |------------|-------------------------------------------------------------------------------------------------------------------------|-------|
-| 2025-03-13 | Effective Deployment of CNNs for 3DoF Pose Estimation and Grasping in Industrial Settings                               | [Link](https://www.youtube.com/watch?v=Xr6eF9ux5z4) |
-| 2025-03-31 | SAM-6D Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation                                                 | [Link](https://www.youtube.com/watch?v=eSFdqBNrNzU) |
-| 2025-04-01 | Depth-based 6DoF Object Pose Estimation using Swin Transformer                                                          | [Link](https://www.youtube.com/watch?v=T0psauag59g) |
+| 2025-09-16 | Imagenet Classification with Deep Convolutional Neural Networks                                                         | [Link](https://www.youtube.com/watch?v=W3qNLUJw8bc) |
+| 2025-10-01 | TAIL-MIL: Time-Aware and Instance-Learnable Multiple Instance Learning for Multivariate Time Series Anomaly Detection   | [Link](https://www.youtube.com/watch?v=h5pdC_uwC1Q) |
+| 2025-11-06 | Transformer-based multivariate time series anomaly detection using inter-variable attention mechanism                   | [Link](https://www.youtube.com/watch?v=3jepgzRtm6I) |
 
 ---
 
@@ -56,7 +52,6 @@ I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University*
 - **Emulate3D** *(Simulate Digital Twin)*
 - **KiCAD** *(Circuit Design)*
 - **Matlab, Labview** *(Data Analysis)*
-- **PSIM** *(Simulate Power Electronics)*
 - **Cognex Vision System**
 - **UR robot, Dosan robot**
 
@@ -66,6 +61,6 @@ I am pursuing my **M.S. in Smart Factory Convergence at Sungkyunkwan University*
 - **Python, C#, C** 
 ---
 
-  ## 📫 Contact
-💡 Always open to new opportunities and collaborations!  
-📧 **Email:** [cong16@skku.edu](mailto:cong16@skku.edu)
+## Contact
+- Always open to new opportunities and collaborations!  
+- **Email:** [cong16@skku.edu](mailto:cong16@skku.edu)
