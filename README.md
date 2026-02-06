@@ -3,7 +3,7 @@
 I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan University**
 
 **Research Interests:**
-- Point Cloud Segmentation
+- 3D Segmentation
 - Computer Vision
 - Robotics
 
@@ -46,7 +46,6 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 ---
 
 ## Skills
-
 ### Software
 - **Arduino, TMS320F28335** *(Embedded System)*
 - **AutoCAD, SolidWorks** *(Machine Design, Multi-Body Dynamic Analysis, Static Analysis)*
@@ -60,11 +59,11 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 - **PyTorch, OpenCV**
 - **Python, C#, C** 
 
-### Hardware
+### Robot Hardware
 - **UR robot, Dosan robot**
 - **Cognex Vision System**
 ---
 
 ## Contact
-- Always open to new opportunities and collaborations!  
+- Always open to new opportunities and collaborations 
 - **Email:** [cong16@skku.edu](mailto:cong16@skku.edu)
