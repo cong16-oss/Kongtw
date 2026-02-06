@@ -49,18 +49,20 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 ### Software
 - **Arduino, TMS320F28335** *(Embedded System)*
-- **ROS2** *(Moveit, Gazebo Simulation)*
 - **AutoCAD, SolidWorks** *(Machine Design, Multi-Body Dynamic Analysis, Static Analysis)*
 - **Emulate3D** *(Simulate Digital Twin)*
 - **KiCAD** *(Circuit Design)*
 - **Matlab, Labview** *(Data Analysis)*
-- **Cognex Vision System**
-- **UR robot, Dosan robot**
+- **ROS2**
 
 ### Programming, Machine Learning & Deep Learning 
 - **Point Cloud Segmentation**
 - **PyTorch, OpenCV**
 - **Python, C#, C** 
+
+### Hardware
+- **UR robot, Dosan robot**
+- **Cognex Vision System**
 ---
 
 ## Contact
