@@ -51,15 +51,19 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 ### Software
 - **Arduino, TMS320F28335** *(Embedded System)*
 - **AutoCAD, SolidWorks** *(Machine Design, Multi-Body Dynamic Analysis, Static Analysis)*
-- **Emulate3D** *(Simulate Digital Twin)*
 - **KiCAD** *(Circuit Design)*
 - **Matlab, Labview** *(Data Analysis)*
+- **Emulate3D** *(Simulate Digital Twin)*
 - **ROS2**
 
 ### Programming, Machine Learning & Deep Learning 
 - **Point Cloud Segmentation**
 - **PyTorch, OpenCV**
-- **Python, C#, C** 
+- **Python, C#, C**
+
+### Systems & DevOps
+- **Git & GitHub** 
+- **Linux (Ubuntu)**
 
 ### Hardware
 - **UR robot, Dosan robot**
