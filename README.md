@@ -6,6 +6,8 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 - 3D Segmentation
 - Computer Vision
 - Robotics
+- Anomaly Detection
+- Industrial AI
 
 ---
 
