@@ -59,7 +59,7 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 - **PyTorch, OpenCV**
 - **Python, C#, C** 
 
-### Robot Hardware
+### Hardware
 - **UR robot, Dosan robot**
 - **Cognex Vision System**
 ---
