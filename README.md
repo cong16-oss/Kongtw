@@ -59,7 +59,6 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 ### Program Registrations
 - 소량 조색 데이터를 활용한 이중 증강 기반 파운데이션 양방향 색상 예측 및 시뮬레이션 프로그램"
   - 등록 번호: C-2025-059917
-  - 설명 : 
 
 ### Patents
 - 아두이노를 활용한 그래픽 사용자 인터페이스의 피지컬 컴퓨팅 시스템 (등록 번호: Application No. 10-2799356-0000)
