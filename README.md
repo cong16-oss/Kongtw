@@ -1,8 +1,9 @@
 ## I'm Taewoong Kong
 
+I am a **Deep Learning Researcher** specializing in **3D Segmentation** using advanced AI techniques.  
 I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan University**
 
-**Research Interests:**
+🔬 **Research Interests:**
 - 3D Segmentation
 - Computer Vision
 - Robotics
@@ -11,27 +12,11 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 ---
 
-## Education
+🎓 ## Education
 
 - **M.S. in Smart Factory Convergence**, Sungkyunkwan University *(2026 - Present)*
 
 - **B.S. in Robot Automation Engineering**, Dongyang Mirae University *(2017- 2024)*
-  
----
-
-### Paper
-- Il-Kyu Hwang, Tae-Woong Kong and Jin-Hyuk Park. "Graphical Arduino IDE System with Wiring Layout and Flowchart Functions for Physical Computing Education".
-  Wiley Computer Applications in Engineering Education. doi: https://doi.org/10.1002/cae.22783
-
-### Program Registrations
-- 소량 조색 데이터를 활용한 이중 증강 기반 파운데이션 양방향 색상 예측 및 시뮬레이션 프로그램"
-  - 등록 번호: C-2025-059917
-  - 발명자 : 박아영, 공태웅, 김소연, 권태완, 정종필
-     
-### Patents
-- 아두이노를 활용한 그래픽 사용자 인터페이스의 피지컬 컴퓨팅 시스템
-  - 등록 번호: Application No. 10-2799356-0000
-  - 발명자 : 황일규, 공태웅, 박진혁
 
 ---
 
@@ -47,7 +32,7 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 ---
 
-## Skills
+## 🔧 Skills
 ### Software
 - **Arduino, TMS320F28335** *(Embedded System)*
 - **AutoCAD, SolidWorks** *(Machine Design, Multi-Body Dynamic Analysis, Static Analysis)*
@@ -70,6 +55,20 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 - **Cognex Vision System**
 ---
 
-## Contact
-- Always open to new opportunities and collaborations 
-- **Email:** [cong16@skku.edu](mailto:cong16@skku.edu)
+## 💡 Intellectual Property
+### Paper
+- Il-Kyu Hwang, Tae-Woong Kong and Jin-Hyuk Park. "Graphical Arduino IDE System with Wiring Layout and Flowchart Functions for Physical Computing Education".
+  Wiley Computer Applications in Engineering Education. doi: https://doi.org/10.1002/cae.22783
+
+### Program Registrations
+- 소량 조색 데이터를 활용한 이중 증강 기반 파운데이션 양방향 색상 예측 및 시뮬레이션 프로그램"
+  - 등록 번호: C-2025-059917
+  - 설명 : 
+
+### Patents
+- 아두이노를 활용한 그래픽 사용자 인터페이스의 피지컬 컴퓨팅 시스템 (등록 번호: Application No. 10-2799356-0000)
+
+## 📫 Contact
+💡 Always open to new opportunities and collaborations!  
+📧 **Email:** [cong16@skku.edu](mailto:cong16@skku.edu)
+📍 **Location:** South Korea 🇰🇷
