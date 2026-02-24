@@ -33,6 +33,15 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 ---
 
 ## 🔧 Skills
+### Programming & Frameworks
+- **Point Cloud Segmentation**
+- **PyTorch, TensorFlow, OpenCV**
+- **Python, C#, C**
+
+### Database & DevOps
+- **Git & GitHub** 
+- **Linux (Ubuntu, WSL)**
+
 ### Software
 - **Arduino, TMS320F28335** *(Embedded System)*
 - **AutoCAD, SolidWorks** *(Machine Design, Multi-Body Dynamic Analysis, Static Analysis)*
@@ -40,19 +49,6 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 - **Matlab, Labview** *(Data Analysis)*
 - **Emulate3D** *(Simulate Digital Twin)*
 - **ROS2**
-
-### Programming, Machine Learning & Deep Learning 
-- **Point Cloud Segmentation**
-- **PyTorch, TensorFlow, OpenCV**
-- **Python, C#, C**
-
-### Systems & DevOps
-- **Git & GitHub** 
-- **Linux (Ubuntu, WSL)**
-
-### Hardware
-- **UR robot, Dosan robot**
-- **Cognex Vision System**
 ---
 
 ## 💡 Intellectual Property
