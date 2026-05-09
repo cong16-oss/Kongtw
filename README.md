@@ -24,14 +24,14 @@ I'm currently pursuing an **M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 | Date       | Title & Topic                                                                                                           | Link  |
 |------------|-------------------------------------------------------------------------------------------------------------------------|-------|
-| 2025-09    | Imagenet Classification with Deep Convolutional Neural Networks                                                         | [Link](https://www.youtube.com/watch?v=W3qNLUJw8bc) |
-| 2025-10    | TAIL-MIL: Time-Aware and Instance-Learnable Multiple Instance Learning for Multivariate Time Series Anomaly Detection   | [Link](https://www.youtube.com/watch?v=h5pdC_uwC1Q) |
-| 2025-11    | Transformer-based multivariate time series anomaly detection using inter-variable attention mechanism                   | [Link](https://www.youtube.com/watch?v=3jepgzRtm6I) |
-| 2026-01    | High-Quality Pseudo-Labeling for Point Cloud Segmentation With Scene-Level Annotation                                   | [Link](https://www.youtube.com/watch?v=fGxO4L5YT2c) |
-| 2026-02    | Search3D: Hierarchical Open-Vocabulary 3D Segmentation                                                                  | [Link](https://www.youtube.com/watch?v=ZbRZCF8k0EI) |
-| 2026-03    | Functionality understanding and segmentation in 3D scenes                                                                 | [Link](https://www.youtube.com/watch?v=oOzl6Yqjcrw) |
-| 2026-04    | SAMAug: Point Prompt Augmentation for Segment Anything Model                                                              | [Link](https://www.youtube.com/watch?v=9J4oVogrlQk) |
-| 2026-05    | KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images                            | [Link](https://www.youtube.com/watch?v=epYkWy6Yhag) |
+| 2025-09-19    | Imagenet Classification with Deep Convolutional Neural Networks                                                         | [Link](https://www.youtube.com/watch?v=W3qNLUJw8bc) |
+| 2025-10-31    | TAIL-MIL: Time-Aware and Instance-Learnable Multiple Instance Learning for Multivariate Time Series Anomaly Detection   | [Link](https://www.youtube.com/watch?v=h5pdC_uwC1Q) |
+| 2025-11-28    | Transformer-based multivariate time series anomaly detection using inter-variable attention mechanism                   | [Link](https://www.youtube.com/watch?v=3jepgzRtm6I) |
+| 2026-01-30    | High-Quality Pseudo-Labeling for Point Cloud Segmentation With Scene-Level Annotation                                   | [Link](https://www.youtube.com/watch?v=fGxO4L5YT2c) |
+| 2026-02-09    | Search3D: Hierarchical Open-Vocabulary 3D Segmentation                                                                  | [Link](https://www.youtube.com/watch?v=ZbRZCF8k0EI) |
+| 2026-03-09    | Functionality understanding and segmentation in 3D scenes                                                                 | [Link](https://www.youtube.com/watch?v=oOzl6Yqjcrw) |
+| 2026-04-06    | SAMAug: Point Prompt Augmentation for Segment Anything Model                                                              | [Link](https://www.youtube.com/watch?v=9J4oVogrlQk) |
+| 2026-05-04    | KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images                            | [Link](https://www.youtube.com/watch?v=epYkWy6Yhag) |
 
 
 ---
